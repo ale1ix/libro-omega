@@ -1,12 +1,12 @@
 {
-  "version": "1.1.0",
+  "version": "1.0.0",
   "chapters": [
     {
-      "title": "Introducción a Omega",
+      "title": "Capítulo 1: El Despertar",
       "file": "capitulo1.html"
     },
     {
-      "title": "El Protocolo Antiguo",
+      "title": "Capítulo 2: El Protocolo",
       "file": "capitulo2.html"
     }
   ]
