@@ -1,0 +1,13 @@
+{
+  "version": "1.1.0",
+  "chapters": [
+    {
+      "title": "Introducción a Omega",
+      "file": "capitulo1.html"
+    },
+    {
+      "title": "El Protocolo Antiguo",
+      "file": "capitulo2.html"
+    }
+  ]
+}
